@@ -1,0 +1,83 @@
+{
+  "pages": {
+    "/cart/page": [
+      "static/chunks/[root-of-the-server]__9a168d68._.css",
+      "static/chunks/node_modules_b9bac064._.js",
+      "static/chunks/src_0270c884._.js",
+      "static/chunks/src_app_layout_tsx_c0237562._.js",
+      "static/chunks/node_modules_d03248bd._.js",
+      "static/chunks/src_7bac396a._.js",
+      "static/chunks/src_app_cart_page_tsx_59fe3a9b._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_fd44f5a4._.js",
+      "static/chunks/node_modules_next_dist_compiled_2ce9398a._.js",
+      "static/chunks/node_modules_next_dist_client_8f19e6fb._.js",
+      "static/chunks/node_modules_next_dist_2ecbf5fa._.js",
+      "static/chunks/node_modules_@swc_helpers_cjs_00636ac3._.js",
+      "static/chunks/_e69f0d32._.js",
+      "static/chunks/_93808211._.js"
+    ],
+    "/checkout/page": [
+      "static/chunks/[root-of-the-server]__9a168d68._.css",
+      "static/chunks/node_modules_b9bac064._.js",
+      "static/chunks/src_0270c884._.js",
+      "static/chunks/src_app_layout_tsx_c0237562._.js",
+      "static/chunks/node_modules_3384d635._.js",
+      "static/chunks/src_60b6a9ec._.js",
+      "static/chunks/src_app_checkout_page_tsx_59fe3a9b._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_fd44f5a4._.js",
+      "static/chunks/node_modules_next_dist_compiled_2ce9398a._.js",
+      "static/chunks/node_modules_next_dist_client_8f19e6fb._.js",
+      "static/chunks/node_modules_next_dist_2ecbf5fa._.js",
+      "static/chunks/node_modules_@swc_helpers_cjs_00636ac3._.js",
+      "static/chunks/_e69f0d32._.js",
+      "static/chunks/_93808211._.js"
+    ],
+    "/page": [
+      "static/chunks/[root-of-the-server]__9a168d68._.css",
+      "static/chunks/node_modules_b9bac064._.js",
+      "static/chunks/src_0270c884._.js",
+      "static/chunks/src_app_layout_tsx_c0237562._.js",
+      "static/chunks/node_modules_7b16c1dd._.js",
+      "static/chunks/src_3e97c7ce._.js",
+      "static/chunks/src_app_page_tsx_59fe3a9b._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_fd44f5a4._.js",
+      "static/chunks/node_modules_next_dist_compiled_2ce9398a._.js",
+      "static/chunks/node_modules_next_dist_client_8f19e6fb._.js",
+      "static/chunks/node_modules_next_dist_2ecbf5fa._.js",
+      "static/chunks/node_modules_@swc_helpers_cjs_00636ac3._.js",
+      "static/chunks/_e69f0d32._.js",
+      "static/chunks/_93808211._.js"
+    ],
+    "/profile/page": [
+      "static/chunks/[root-of-the-server]__9a168d68._.css",
+      "static/chunks/node_modules_b9bac064._.js",
+      "static/chunks/src_0270c884._.js",
+      "static/chunks/src_app_layout_tsx_c0237562._.js",
+      "static/chunks/src_app_profile_page_tsx_e9387700._.js",
+      "static/chunks/src_app_profile_page_tsx_59fe3a9b._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_fd44f5a4._.js",
+      "static/chunks/node_modules_next_dist_compiled_2ce9398a._.js",
+      "static/chunks/node_modules_next_dist_client_8f19e6fb._.js",
+      "static/chunks/node_modules_next_dist_2ecbf5fa._.js",
+      "static/chunks/node_modules_@swc_helpers_cjs_00636ac3._.js",
+      "static/chunks/_e69f0d32._.js",
+      "static/chunks/_93808211._.js"
+    ],
+    "/search/page": [
+      "static/chunks/[root-of-the-server]__9a168d68._.css",
+      "static/chunks/node_modules_b9bac064._.js",
+      "static/chunks/src_0270c884._.js",
+      "static/chunks/src_app_layout_tsx_c0237562._.js",
+      "static/chunks/node_modules_92eeba3b._.js",
+      "static/chunks/src_35cdd73e._.js",
+      "static/chunks/src_app_search_page_tsx_59fe3a9b._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_fd44f5a4._.js",
+      "static/chunks/node_modules_next_dist_compiled_2ce9398a._.js",
+      "static/chunks/node_modules_next_dist_client_8f19e6fb._.js",
+      "static/chunks/node_modules_next_dist_2ecbf5fa._.js",
+      "static/chunks/node_modules_@swc_helpers_cjs_00636ac3._.js",
+      "static/chunks/_e69f0d32._.js",
+      "static/chunks/_93808211._.js"
+    ]
+  }
+}
